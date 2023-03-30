@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=recipes
+POSTGRES_USER=VbfXywAFVHnfUHbjiYxCEzOSBTpiTEya
+POSTGRES_PASSWORD=y87c5RGK6rV13Db5PWDxhP0CaTY9mYNPVcM8jfzucTyIw6cUvCwnPa4smE5PNTPF
